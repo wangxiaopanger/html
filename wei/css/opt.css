@@ -1,0 +1,125 @@
+/*
+* @Author: 13425
+* @Date:   2018-08-15 00:00:48
+* @Last Modified by:   13425
+* @Last Modified time: 2018-08-15 00:54:36
+*/
+header{
+	width: 100%;
+	height: 3.74rem;
+	background-image: -webkit-linear-gradient(left, #e9562a, #d75e16);
+}
+header a{
+	width: .79rem;
+	height: .91rem;
+}
+header a img{
+	width: .4rem;
+	height: .6rem;
+	margin-left: .13rem;
+	margin-top: .17rem;
+}
+header h5{
+	font-size: .34rem;
+	color: #fff;
+	font-weight: 400;
+	padding-left: .4rem;
+	margin-bottom: .3rem;
+}
+header h4{
+	font-size: .4rem;
+	color: #fff;
+	font-weight: 500;
+	padding-left: .4rem;
+	margin-bottom: .3rem;
+}
+header h6{
+	font-size: .22rem;
+	color: #fff;
+	padding-left: .4rem;
+	font-weight: 400;
+}
+header h6 span{
+	padding-left: .45rem;
+}
+main{
+	height: 9.6rem;
+	position: relative;
+}
+main .container{
+	position: absolute;
+	top: -.48rem;
+	left: .24rem;
+	border-radius: .1rem;
+	background: #fff;
+}
+main h4{
+	width: 6.68rem;
+	margin-left: .17rem;
+	font-size: .34rem;
+	font-weight: 100;
+	padding-top: .1rem;
+	line-height: .86rem;
+	padding-left: .57rem;
+	border-bottom: .01rem solid #e17045;
+}
+main h4 span{
+	color: #e05921;
+	padding-left: 2rem;
+}
+main h4 i{
+	color: #e05921;
+}
+main h5{
+	width: 6.68rem;
+	margin-left: .17rem;
+	font-size: .34rem;
+	font-weight: 100;
+	padding-top: .1rem;
+	line-height: .6rem;
+	padding-left: .57rem;
+}
+main h5 span{
+	color: #e05921;
+	padding-left: 3rem;
+}
+main h5 i{
+	color: #e05921;
+}
+main h3{
+	width: 6.68rem;
+	margin-left: .17rem;
+	font-size: .34rem;
+	font-weight: 600;
+	padding-top: .1rem;
+	line-height: .86rem;
+	border-bottom: .01rem solid #e17045;
+	text-align: center;
+}
+main h3 b{
+	font-size: .4rem;
+	color: #e05921;
+	font-weight: 100;
+	position: fixed;
+	right: .6rem;
+}
+main ul{
+	padding-top: .67rem;
+}
+main ul li{
+	display: flex;
+	height: 1.14rem;
+	padding-left: .74rem;
+}
+main ul li img{
+	width: .49rem;
+	height: .54rem;
+	margin-top: .3rem;
+}
+main ul li h2{
+	font-size: .34rem;
+	font-weight: 500;
+	margin-left: .37rem;
+	line-height: 1.14rem;
+	color: #000;
+}
